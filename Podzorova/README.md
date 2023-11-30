@@ -1,19 +1,19 @@
-# Подзорова Полина
+# Podzorova Polina
 
-### Тема
+### Subject
 
-Исследование выпускаемых стартапов
+Research of emerging startups
 
-### План
-1. Проанализировать тенденции к запуску старпатов за последние года
-2. Исследовать, как менялись тренды в стартапах
-3. Найти зависимости с мировыми тенденциями и технологиями
+### Plan
+1. Analyze trends in startup launches over recent years
+2. Research how startup trends have changed
+3. Find dependencies with global trends and technologies
 
-### Инсайты:
-1. Теги не менялись за последние пару лет, исключая незначительные изменения, не меняющие сути тега
-2. Количество запускаемых стартапов стабильно увеличивается год от года
-3. Топ-2 глобальные популярные темы:
+### Insights
+1. Tags have not changed over the past couple of years, except for minor changes that do not change the essence of the tag
+2. The number of startups being launched is steadily increasing year by year.
+3. Top 2 global popular topics:
      1. Fintech
      2. Healthcare
         
-   По этим направлениям наблюдается рост в последние пару лет. Что достаточно ожидаемо, учитывая, насколько популярны эти направления в последнее время. Ожидается, что интерес к этим темам будет только расти в ближайшие годы
+   There has been growth in these areas over the past couple of years. Which is quite expected, considering how popular these destinations have been lately. It is expected that interest in these topics will only grow in the coming years

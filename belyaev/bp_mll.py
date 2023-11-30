@@ -26,8 +26,17 @@ class BPMLLLoss(torch.nn.Module):
         y_norm = torch.pow(y.sum(dim=(1,)), self.bias[0])
         y_bar_norm = torch.pow(y_bar.sum(dim=(1,)), self.bias[1])
         assert torch.all(y_norm != 0) or torch.all(y_bar_norm != 0), "an instance cannot have none or all the labels"
-        # TODO: 1. is bad - it appears to create a new extremum...
-        return (1 / torch.mul(y_norm, y_bar_norm) * self.pairwise_sub_exp(y, y_bar, c)).nan_to_num(1.).mean()
+        
+        return (
+            (
+                1 /
+                torch.mul(y_norm, y_bar_norm) *
+                self.pairwise_sub_exp(y, y_bar, c)
+            )
+            # TODO: 1. is bad - it appears to create a new extremum...
+            # .nan_to_num(1.)
+            .mean()
+        )
 
     def pairwise_sub_exp(self, y: Tensor, y_bar: Tensor, c: Tensor) -> Tensor:
         r"""

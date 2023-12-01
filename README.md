@@ -7,3 +7,6 @@ In this project my goal is to analyze data of YC investments and to try to find 
 I have managed to find, that there are significant differences in Deal Size between Early VC, Later VC and Seed Round with  Later VC stage gaining much more money than thr previous two. Also I have used joined table (credits: Kirill456z) of deals' information and companys' tags on YC to analyse the same hypothesis based on tags. However, there were too many tags, so I have grouped them into 6 categories, and using mupltipletests I have found out significant differences only in % Acquired between tags of Business and Finance category vs Energy and Ecology, and also between  Energy and Ecology vs Commerce.
 
 ### Further plans
+
+- Match all investors and try to analyse their revenue
+- Analyse which tag category and deal type returns more money to investors

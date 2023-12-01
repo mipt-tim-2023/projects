@@ -45,13 +45,14 @@ Some examples:
 
 The max number of word to generated was set here to 20:
 
+### Prompt 1
 :thought_balloon: *Prompt*
 > "New startup, LeeMonade, introduce you our new refreshing drink for you"
 
 :robot: *Answer*
 > 'New startup, LeeMonade, introduce you our new refreshing drink for you to enjoy with all your friends, coworkers and family. No more fuss, no more wasted money. We give you a hard time with even the simplest of menus and an easy way to get through it.'
-
-
+_________
+### Prompt 2
 :thought_balloon: *Prompt*
 > "What do you know about Tyergrth? We provide you with the newest way to do the transactions"
 
@@ -60,8 +61,8 @@ The max number of word to generated was set here to 20:
 >  1. Sign up for Tiers
 >  1. In your Account page, scroll down to Buy and sell and click signup. Choose a Store or come back to the Marketplace.
 >  2. Tap on the Unique Products list. In the top-right corner, click the product"
-
-
+_________
+### Prompt 3
 Here I set the max number of word in generating to 2000 (so not to limit the model in creation):
 
 :thought_balloon: *Prompt*
@@ -72,6 +73,9 @@ Here I set the max number of word in generating to 2000 (so not to limit the mod
 We created this magic hat so you can use it to enjoy and learn on your computer at home and at work, no matter where you live. We understand you want it to become a part of your daily life.
 Made from the material that came with your computer, we make every effort to make your ideas and experiences as comfortable as possible. We use our own proprietary AI technology to generate a simplified interface. This enables you to open your computer to a video editor and visual editor on your computer screen.
 In addition to making that experience more comfortable for you, we also believe it helps you find your favorite content, discover amazing articles on your favorite news websites, and get started on growing your business.'
+
+_________
+### Prompt 4
 
 :thought_balloon: *Prompt*
 >  "Woptify provides with all the data concerning your music taste. You can get new statistics, insignts and suggestions that help you find your new favourite tracks. Moreover,"

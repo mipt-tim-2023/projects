@@ -27,13 +27,20 @@ In average, we get 200 tokens difference.
 
 > Hypothesis 2: Maybe if we cluster our data to two clusters w.r.t to the length, we will be able to analyse everything withing clusters?
 
-
 ![Picture 3](./images/clusters.png)
 
 Here I plot median and mean value for both clusters. 
 What we see - for small cluster mean and median are virtually the same and equal to 300 tokens.
 
 For longer ones, due to outliers, mean is pretty distant from median, and median is equal to 841, while mean is 949.
+
+Now let's investigate which countries are the most eloquent and which are the most talkative.
+
+Short descriptions:
+![Picture 4](./images/mean_by_countries.png)
+
+Long descriptions:
+![Picture 5](./images/mean_by_countries_long.png)
 
 # Creating New Descriptions
 

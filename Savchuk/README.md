@@ -37,9 +37,25 @@ The research results can be viewed in more detail in the pdf file <code>YC Data 
 
 You can view the analysis in detail on the notebook <code>parse_yc_csv.ipynb</code>.
 
-В этой таблице были собраны данные по проектам, выпущенным из YC, имеющие высокую стоимость. По результатам похожего на предыдущий случай анализа, были получены следующие результаты:
+In this table the data on projects released from YC that have a high value was collected. In the notebook the parameters of income and the number of investors for active and inactive companies were examined. We will consider as inactive those that have completed their activities or were sold to another company.
 
-In this table the data on projects released from YC that have a high value was collected. Based on the results of an analysis similar to the previous case, the following results were obtained: for large project to be successful it is needed to have around ten investors to contribute to it. 50 million $ can be received as a total revenue on average. To choose investers, some lists that can be useful for this purposed were found.
+For active we got next histograms:
+
+| Quartiles revenue | Deciles revenue |
+|-------------------|-----------------|
+| ![db](./assets/Active_quartiles.png) | ![db](./assets/Active_deciles.png)|
+
+These data show that the average income for active companies ranges from $30 million to $100 million. It also should be mentioned that the median indicator gives a value of $5M.
+
+For unactive companies we got other results:
+
+| Quartiles revenue |
+|-------------------|
+| ![db](./assets/Notactive_quartiles.png) |
+
+This shows that their income for the most part ranges from a million to one and a half million dollars.
+
+Based on the results of an analysis similar to the previous case, the following results were obtained: for large project to be successful it is needed to have around ten investors to contribute to it. More than $5M can be received as a total revenue on average. To choose investers, some lists that can be useful for this purposed were found.
 
 ## Investigation participants
 

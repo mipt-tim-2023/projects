@@ -36,11 +36,54 @@ For longer ones, due to outliers, mean is pretty distant from median, and median
 
 Now let's investigate which countries are the most eloquent and which are the most talkative.
 
+Pie chart:
+_____________________________
+![Picture 3a](./images/pie.png)
+
 Short descriptions:
 ![Picture 4](./images/mean_by_countries.png)
 
 Long descriptions:
 ![Picture 5](./images/mean_by_countries_long.png)
+
+
+Industries and Descriptions
+
+
+![Picture 57](./images/long_industries.png)
+
+Long: the least talktaive wrt to median: Energy and Industrial Bio, the most talktaive wrt to median within 600 symbols are Travel, Leisure nad Tourism. There were several industries with extreme outlieed values, like B2B, Infrastrucre, Heathcare, Health and Wellness. Maybe this is because these are the most numeours industries?  
+
+Let's see:
+| Industry           | Counter |
+|--------------------|---------|
+|            **B2B** |     391 |
+|           Consumer |     164 |
+|     **Healthcare** |     151 |
+|            Fintech |     119 |
+|        Engineering |      70 |
+| Product and Design |      70 |
+|        Industrials |      55 |
+
+Well, only two forementioned industry were at top-7 industries. It's worth mentioning, that half of "outlied" industries were connected with healthcare.
+
+![Picture 6](./images/short_industries.png)
+
+Short: the least talktaive: Content, Banking and Exchange, the most talktaive within 600 symbols are Agriculture and Office Management. However, the latter two has noticeable spike of median value considered with the remaining industires. The majority of industries have their median values around 300 symbols. The bars of each industry are similar, but this is due to the limitation of 600 symbols and we do not have outliers here.
+
+Let's see the top-7 numerous industries just like we did for long descriptions:
+
+| Industry           | Counter |
+|--------------------|---------|
+|                B2B |    1463 |
+|           Consumer |     508 |
+|            Fintech |     374 |
+|         Healthcare |     320 |
+|        Engineering |     302 |
+| Product and Design |     302 |
+|        Industrials |  **15** |
+
+I would like to point the magnitute of difference. With long descriptions such difference wasn't the case
 
 # Creating New Descriptions
 

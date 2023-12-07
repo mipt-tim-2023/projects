@@ -46,10 +46,8 @@ Short descriptions:
 Long descriptions:
 ![Picture 5](./images/mean_by_countries_long.png)
 
-
-Industries and Descriptions
-
-
+_____________________________
+# Industries and Descriptions
 ![Picture 57](./images/long_industries.png)
 
 Long: the least talktaive wrt to median: Energy and Industrial Bio, the most talktaive wrt to median within 600 symbols are Travel, Leisure nad Tourism. There were several industries with extreme outlieed values, like B2B, Infrastrucre, Heathcare, Health and Wellness. Maybe this is because these are the most numeours industries?  
@@ -83,8 +81,8 @@ Let's see the top-7 numerous industries just like we did for long descriptions:
 | Product and Design |     302 |
 |        Industrials |  **15** |
 
-I would like to point the magnitute of difference. With long descriptions such difference wasn't the case
-
+I would like to point the magnitute of difference. With long descriptions such difference wasn't the case, but this is due to uneven proportions of short and long descriptions.
+_____________________________
 # Creating New Descriptions
 
 I finetuned GPT-2 on descriptions and started to generate the new ones.

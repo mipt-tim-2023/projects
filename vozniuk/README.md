@@ -40,11 +40,15 @@ Pie chart:
 _____________________________
 ![Picture 3a](./images/pie.png)
 
+# Countries and Descriptions
+
+short_countries_descriptions.png
+
 Short descriptions:
-![Picture 4](./images/mean_by_countries.png)
+![Picture 4](./images/short_countries_descriptions.png)
 
 Long descriptions:
-![Picture 5](./images/mean_by_countries_long.png)
+![Picture 5](./images/long_countries_descriptions.png)
 
 _____________________________
 # Industries and Descriptions

@@ -10,67 +10,71 @@
     {
       "epoch": 0.23,
       "learning_rate": 2.2522522522522523e-05,
-      "loss": 0.6521,
+      "loss": 0.4701,
       "step": 100
     },
     {
       "epoch": 0.45,
       "learning_rate": 4.5045045045045046e-05,
-      "loss": 0.425,
+      "loss": 0.3228,
       "step": 200
     },
     {
       "epoch": 0.68,
       "learning_rate": 4.80431510286001e-05,
-      "loss": 0.2215,
+      "loss": 0.158,
       "step": 300
     },
     {
       "epoch": 0.9,
       "learning_rate": 4.5534370296036125e-05,
-      "loss": 0.1355,
+      "loss": 0.0861,
       "step": 400
     },
     {
       "epoch": 1.0,
-      "eval_accuracy": 0.9923190474510193,
-      "eval_loss": 0.10182084143161774,
-      "eval_runtime": 35.453,
-      "eval_samples_per_second": 17.46,
-      "eval_steps_per_second": 2.2,
+      "eval_accuracy": 0.9925559163093567,
+      "eval_loss": 0.05990428104996681,
+      "eval_precision": NaN,
+      "eval_recall": 0.0,
+      "eval_runtime": 60.942,
+      "eval_samples_per_second": 10.157,
+      "eval_steps_per_second": 1.28,
       "step": 443
     },
     {
       "epoch": 1.13,
       "learning_rate": 4.3025589563472155e-05,
-      "loss": 0.0998,
+      "loss": 0.0593,
       "step": 500
     },
     {
       "epoch": 1.35,
       "learning_rate": 4.0516808830908184e-05,
-      "loss": 0.0818,
+      "loss": 0.0436,
       "step": 600
     },
     {
       "epoch": 1.58,
       "learning_rate": 3.800802809834421e-05,
-      "loss": 0.069,
+      "loss": 0.0362,
       "step": 700
     },
     {
       "epoch": 1.81,
       "learning_rate": 3.549924736578023e-05,
-      "loss": 0.0637,
+      "loss": 0.0318,
       "step": 800
     },
     {
       "epoch": 2.0,
-      "eval_accuracy": 0.9923630952835083,
-      "eval_loss": 0.05669895559549332,
-      "eval_runtime": 43.6184,
-      "eval_samples_per_second": 14.191,
-      "eval_steps_per_second": 1.788,
+      "eval_accuracy": 0.9925559163093567,
+      "eval_loss": 0.02612803317606449,
+      "eval_precision": NaN,
+      "eval_recall": 0.0,
+      "eval_runtime": 75.6902,
+      "eval_samples_per_second": 8.178,
+      "eval_steps_per_second": 1.031,
       "step": 886
     }
   ],

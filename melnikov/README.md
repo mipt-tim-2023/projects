@@ -12,6 +12,7 @@ Create model to predict which tags are to be preferred in the next YC batches.
 
 Some tags have good estimated prediction accuracy, their prediction results are presented in the last cell
 ![alt text](prediction.png "prediction")
+Most of infrequent tags are hard to predict. But it's possible to predict some of popular tags.It is almost guaranteed the tags analytics and investing will be pretty frequent. There is less certainty with the AI tag, as it has been quite frequent in tags for a long time, atypical for other tags.
 
 ## License
 

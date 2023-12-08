@@ -41,21 +41,27 @@ In this table the data on projects released from YC that have a high value was c
 
 For active we got next histograms:
 
-| Quartiles revenue | Deciles revenue |
-|-------------------|-----------------|
-| ![db](./assets/Active_quartiles.png) | ![db](./assets/Active_deciles.png)|
+| Quartiles revenue |
+|-------------------|
+| ![db](./assets/Active_quartiles.png) |
 
 These data show that the average income for active companies ranges from $30 million to $100 million. It also should be mentioned that the median indicator gives a value of $5M.
 
+Note that further comparison with inactive companies makes sense: most of them lost their independence or ceased to exist relatively recently - not earlier than 2020. Accordingly, for investigating revenue we will take data on it a year earlier. The following histogram shows this.
+
+| Last year of gaining revenue |
+|------------------------------|
+| ![db](./assets/Notactive_stoppage_year.png) |
+
 For unactive companies we got other results:
 
-| Quartiles revenue |
+| Notactive revenue |
 |-------------------|
-| ![db](./assets/Notactive_quartiles.png) |
+| ![db](./assets/Notactive_histograms.png) |
 
 This shows that their income for the most part ranges from a million to one and a half million dollars.
 
-Based on the results of an analysis similar to the previous case, the following results were obtained: for large project to be successful it is needed to have around ten investors to contribute to it. More than $5M can be received as a total revenue on average. To choose investers, some lists that can be useful for this purposed were found.
+Based on the results of an analysis similar to the previous case, the following results were obtained: for large project to be successful it is needed to have around ten investors to contribute to it. But it is not the critical factor - bot active and unactive companies share this result. The main result is that for company to stay alive it is needed to gain more than $80K a month and better $200K a month.
 
 ## Investigation participants
 

@@ -87,6 +87,21 @@ Let's see the top-7 numerous industries just like we did for long descriptions:
 
 I would like to point the magnitute of difference. With long descriptions such difference wasn't the case, but this is due to uneven proportions of short and long descriptions.
 _____________________________
+# Creating WordClouuds
+
+![WC 1](./images/wc.png)
+
+![WC 2](./images/wcshort.png)
+
+![WC 3](./images/wclong.png)
+
+Platform, customer, data, help, team - common words for both
+Also the popular ones are product, AI.
+
+Verbs: build, use, make
+
+
+
 # Creating New Descriptions
 
 I finetuned GPT-2 on descriptions and started to generate the new ones.

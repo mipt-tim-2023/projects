@@ -1,0 +1,9 @@
+{
+  "_name_or_path": "./trained_model",
+  "architectures": [
+    "YCTagPredictorModel"
+  ],
+  "model_type": "yc_tag_predictor",
+  "torch_dtype": "float32",
+  "transformers_version": "4.11.3"
+}

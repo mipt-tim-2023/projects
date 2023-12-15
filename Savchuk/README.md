@@ -1,4 +1,4 @@
-# Successfulness of the project investigation
+# Investigation: what is needed for project to be successful
 
 ## The purpose of the investigation
 

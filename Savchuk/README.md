@@ -2,24 +2,25 @@
 
 ## The purpose of the investigation
 
-Find out how many tries it takes to release from <code>Y Combinator</code> and stay active if we count it as a success.
+Find out how many tries it takes to release from <code>Y Combinator</code> and how much income company should gain to stay active if we count it as a success.
 
 ## Goals
 
 <ul> 
-<li> Gather data about how many times fouders came out from <code>Y Combinator</code>
-<li> Find out, how many projects have investors, if possible
-<li> Is it is possible, try to find out for how many of other startups for each founder no investors were found
-<li> Count averages for gathered data
+<li> Gather data about how many times fouders came out from <code>Y Combinator</code>;
+<li> Find out, how many projects have investors, if possible;
+<li> Is it is possible, try to find out for how many of other startups for each founder no investors were found;
+<li> Count averages for gathered data;
+<li> Investigate yc_csv.csv to gain information amout incomes.
 </ul>
 
 ## Gathering
 
-Gathering occurs in google таблицах on page <code>AnnaSavchuk</code>
+Gathering occurs in Google sheets on page <code>Founders_investigation</code>
 
-## Результаты
+## Results
 
-![db](./assets/YC_Data_2023_AnnaSavchuk.jpg)
+See full details in [URL](https://docs.google.com/spreadsheets/d/1wmtEYf6a_V7i79vYZ5c-faVzt99KR0LTRxeHdqiFIN0/edit#gid=1695031305).
 
 It was collected data for 18 projects from <code>Y Combinator</code> from 2012 til 2023, that were not highly valued. According to results, 12 startups got investments on the year of foundation. Also every founder on average once graduated from YC with 2 as got maximum and all of them have at least one active project.
 
@@ -31,7 +32,7 @@ Thus, we can conclude that to launch a successful but small startup, on average,
 
 ## Notes
 
-The research results can be viewed in more detail in the pdf file <code>YC Data 2023 - AnnaSavchuk</code> in the <code>assets</code> folder or in Google sheets on the sheet <code>AnnaSavchuk</code>.
+The research results can be viewed in more detail on Google sheets on the sheet <code>Founders_investigation</code>.
 
 ## Analysis of a csv-table of large projects from YC
 

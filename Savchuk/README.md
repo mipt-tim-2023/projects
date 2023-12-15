@@ -68,5 +68,4 @@ Based on the results of an analysis similar to the previous case, the following 
 
 <ul>
 <li> <b>Author</b>: Savchuk Anna
-<li> <b>Data Collection Assistant</b>: Zavidonova Daniela
 </ul>

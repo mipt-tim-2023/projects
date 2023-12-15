@@ -19,7 +19,7 @@ Also, we can notice that mean length is slightly decreasing throught our time pe
 
 So, we can reject our Hypothesis for now.
 
-However, let's additionaly investiagty how lengths were different from 500 (our hypothesesed "ideal" length)
+However, let's additionaly investigate how lengths were different from 500 (our hypothesesed "ideal" length)
 
 ![How year and the length of description are connected](./images/2.png)
 
@@ -54,24 +54,23 @@ _____________________________
 # Industries and Descriptions
 ![Picture 57](./images/long_industries.png)
 
-Long: the least talktaive wrt to median: Energy and Industrial Bio, the most talktaive wrt to median within 600 symbols are Travel, Leisure nad Tourism. There were several industries with extreme outlieed values, like B2B, Infrastrucre, Heathcare, Health and Wellness. Maybe this is because these are the most numeours industries?  
+Long: the least talktaive wrt to median: Energy and Industrial Bio, the most talktaive wrt to median within 600 symbols are Travel, Leisure nad Tourism.
 
 Let's see:
 | Industry           | Counter |
 |--------------------|---------|
-|            **B2B** |     391 |
+|              B2B   |     391 |
 |           Consumer |     164 |
-|     **Healthcare** |     151 |
+|         Healthcare |     151 |
 |            Fintech |     119 |
 |        Engineering |      70 |
 | Product and Design |      70 |
 |        Industrials |      55 |
 
-Well, only two forementioned industry were at top-7 industries. It's worth mentioning, that half of "outlied" industries were connected with healthcare.
 
 ![Picture 6](./images/short_industries.png)
 
-Short: the least talktaive: Content, Banking and Exchange, the most talktaive within 600 symbols are Agriculture and Office Management. However, the latter two has noticeable spike of median value considered with the remaining industires. The majority of industries have their median values around 300 symbols. The bars of each industry are similar, but this is due to the limitation of 600 symbols and we do not have outliers here.
+Short: the least talktaive: Content, Banking and Exchange, the most talktaive within 600 symbols are Agriculture and Office Management. However, the latter two has noticeable spike of median value considered with the remaining industires. The majority of industries have their median values around 300 symbols.
 
 Let's see the top-7 numerous industries just like we did for long descriptions:
 
@@ -83,9 +82,9 @@ Let's see the top-7 numerous industries just like we did for long descriptions:
 |         Healthcare |     320 |
 |        Engineering |     302 |
 | Product and Design |     302 |
-|        Industrials |  **15** |
+|        Industrials |     15  |
 
-I would like to point the magnitute of difference. With long descriptions such difference wasn't the case, but this is due to uneven proportions of short and long descriptions.
+
 _____________________________
 # Creating WordClouuds
 

@@ -9,4 +9,5 @@ I have successfully analyzed data and found best invesments, investors with best
 
 I have managed to find, that there are significant differences in Deal Size between Early VC, Later VC and Seed Round with  Later VC stage gaining much more money than thr previous two. Also I have used joined table (credits: Kirill456z) of deals' information and companys' tags on YC to analyse the same hypothesis based on tags. However, there were too many tags, so I have grouped them into 6 categories, and using mupltipletests I have found out significant differences only in % Acquired between tags of Business and Finance category vs Energy and Ecology, and also between  Energy and Ecology vs Commerce.
 
+
 Results of the second part are interesting. I found out that YC is not in top 10 investors with highest mean revenue. Also, i found the best investion - it was DoorDash in 2016. The worst one was Instawork, hhowever there was someting shady going on, becaused based n my data, the company lost 80m dollars in price in 1 day.

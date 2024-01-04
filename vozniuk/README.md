@@ -1,5 +1,6 @@
 # Descriptions of Startups
 
+![WC header](./images/hearder_worcloud.png)
 ## Goals:
 investigate insights about startups' descriptions
 
